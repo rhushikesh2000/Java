@@ -1,10 +1,10 @@
-﻿**Introduction of java**
+﻿**Introduction of Java**
 
-![](Aspose.Words.a9c602e1-45e6-411d-a109-9c2950836050.001.png)**Overview** 
+![image_processing20221114-487776-7ihg32](https://github.com/rhushikesh2000/java/assets/124034778/01e5737c-d90b-4464-a6ce-569f1c48cfb4)
 
 Java is a class-based object-oriented simple programming language. Though we can not consider it to be fully object-oriented as it supports primitive datatypes. It is a general-purpose, high-level programming language that helps programmers and developers to write a code once and run it anywhere.
 
-Java is considered both a compiled and interpreted language. It is because Java source code is first compiled to bytecode which is then interpreted by Java Virtual Machine. Java Virtual Machine interprets the bytecode and converts it to platform specific machine code. Hence, Java is also called a platform-independent programming language.
+Java is considered both a compiled and interpreted language. It is because Java source code is first compiled to bytecode which is then interpreted by Java Virtual Machine. Java Virtual Machine interprets the bytecode and converts it to platform-specific machine code. Hence, Java is also called a platform-independent programming language.
 
 
 
