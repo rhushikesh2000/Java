@@ -54,32 +54,29 @@ Now, you are ready to make new Java projects using eclipse IDE and the screen wi
 ---
 **Step 1:** To create a new Java project in Eclipse, go to **File > New > Project.**
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 010](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4b807830-e864-441c-a91c-b4283091a24c)
+![how-to-run-java-program-in-eclipse-step1](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/ca56ac3f-7dbf-4363-914f-4fae4512cd5f)
+
+
 
 
 **Step 2:** The New Java Project wizard dialog appears to let you specify configurations for the project. Select the **Java Project** option in it.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 011](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d7318837-0bfc-4a70-af25-6bd4991b13dc)
 
 **Step 3:** After that, you will see the below screen. Enter the project name as HelloWorld. After that, click the **Finish** button
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 012](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9af88137-ab8a-4932-bc86-0c8f7449afea)
 
 **Step 4:** It is recommended to create a package for your project. Right-click on the project option, and select New > Package from the context menu like this:
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 013](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/07359451-699e-4b29-beac-7fa09cb01504)
+![java programm -2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/2a191643-e117-459e-83a5-0ee83b738a27)
+
 
 **Step 5:** In the New Java Package dialog, enter the name of your package. Here I have entered com.techvidvan.helloworldprogram:
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 014](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/2db639fa-d671-4076-802d-187cd58f43d4)
 
 **Step 6:** To create a new Java class under a specified package, right-click on the package and select New > Class from the context menu:
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 015](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/22c5107f-3c89-496e-9528-b5bf1eb6c461)
-
+![java programm -3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/a78e0500-dd75-4e59-b8ce-92b630ebeba8)
 **Step 7:** The New Java Class dialog appears, type the name of the class as HelloWorld and choose the option to generate the main() method:
-
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 016](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/66d1e51f-1f67-4ec3-9eb0-28d16914f97f)
 
 **Step 8:** Edit the generated ‘HelloWorld’ java class as per the following code.
 
