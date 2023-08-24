@@ -1,20 +1,20 @@
-** Java - Basic terminologies**
+**Java - Basic terminologies**
 ----
 When we consider a Java program, it can be defined as a collection of objects that communicate via invoking each other's methods. Let us now briefly look into what class, object, methods, and instance variables mean.
 
-**Class:** The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that shares common properties and methods.
+- **Class:** The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that shares common properties and methods.
 
 Example 1: Blueprint of the house is class.
 
 
-**Object:**  Objects have states and behaviors. Example: A dog has states color, name, and breed as well as behavior such as wagging their tail, barking, and eating. An object is an instance of a class.
+- **Object:**  Objects have states and behaviors. Example: A dog has states color, name, and breed as well as behavior such as wagging their tail, barking, and eating. An object is an instance of a class.
 
-**Methods:** A method is a behavior. A class can contain many methods. It is in methods where the logic are written, data is manipulated and all the actions are executed.
+- **Methods:** A method is a behavior. A class can contain many methods. It is in methods where the logic are written, data is manipulated and all the actions are executed.
 
 
-**Instance Variables :** Each object has its unique set of instance variables. An object's state is created by the values assigned to these instance variables.
+- **Instance Variables :** Each object has its unique set of instance variables. An object's state is created by the values assigned to these instance variables.
 
-**public static void main(String [] args):** The method main() is the main entry point into a Java program; this is where the processing starts. Also allowed is the signature 
+- **public static void main(String [] args):** The method main() is the main entry point into a Java program; this is where the processing starts. Also allowed is the signature 
 
 **public static void main(String… args){ ..}**
 ~~~java
@@ -189,7 +189,7 @@ The float data type is a single-precision 32-bit IEEE 754 floating-point. Use a 
 
 **Syntax:** 
 ~~~
- **float** floatVar;
+ float floatVar;
 ~~~
 **7.Double Data Type**
 
@@ -258,7 +258,7 @@ String s1 = new String("welcome to guvi");
 
 
 
-**Variables in Java**
+***Variables in Java***
 
 ---
 
@@ -284,6 +284,8 @@ From the image, it can be easily perceived that while declaring a variable, we n
 **data\_name**: Name was given to the variable.
 
 **How to Initialize Variables in Java?**
+
+---
 
 It can be perceived with the help of 3 components that are as follows:
 
@@ -408,6 +410,8 @@ class guvi {
 
 
  **Scope of variables** 
+ 
+ 
  ![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 008](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f98b1e13-e375-4691-8403-04d1d35f3034)
 
 
@@ -440,7 +444,8 @@ Java unary operators are the types that need only one operand to perform any ope
 
 ---
 
-![](Aspose.Words.f9e7a0ae-3b25-46df-8318-adc99dc31d65.011.jpeg)These operators are used to assign values to a variable. The left side operand of the assignment operator is a variable, and the right side operand of the assignment operator is a value. 
+These operators are used to assign values to a variable. The left side operand of the assignment operator is a variable, and the right side operand of the assignment operator is a value. 
+
 ![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 011](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8a716b30-274c-49f9-a082-994e40781b8b)
 
 
@@ -490,6 +495,8 @@ In Java, type casting is a method or process that converts a data type into anot
 
 
 **Types of Type Casting**
+
+---
 
 There are two types of type casting:
 - Widening Type Casting
