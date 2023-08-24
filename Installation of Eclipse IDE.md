@@ -1,12 +1,11 @@
 **Installation of Eclipse IDE**
-
-Follow the below steps to install Eclipse IDE on Windows:
+---
 
 **Step 1:**   
 In the first step, Open your browser and navigate to this URL
-  <https://www.eclipse.org> 
 
----
+- <https://www.eclipse.org> 
+  
 
  **Step 2:** Then, click on the “Download” button to download Eclipse IDE.
 
@@ -51,8 +50,8 @@ Now, you are ready to make new Java projects using eclipse IDE and the screen wi
 
 ![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f0466a5e-1b83-41fc-8ede-413d7aa455ea)
 
-**JAVA First program** 
---
+**Java First program** 
+---
 **Step 1:** To create a new Java project in Eclipse, go to **File > New > Project.**
 
 ![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 010](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4b807830-e864-441c-a91c-b4283091a24c)
