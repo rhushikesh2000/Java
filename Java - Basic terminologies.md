@@ -564,23 +564,23 @@ Let's see an example of narrowing type casting.
 
 In the following example, we performed the narrowing type casting two times. First, we have converted the double type into a long data type after that long data type is converted into an int type.
 ~~~java
-**public** **class** NarrowingTypeCastingExample  
+public class NarrowingTypeCastingExample  
 
 {  
 
-**public** **static** **void** main(String args[])  
+public static void main(String args[])  
 
 {  
 
-**double** d = 166.66;  
+double d = 166.66;  
 
 //converting double data type into long data type  
 
-**long** l = (**long**)d;  
+long l = (long)d;  
 
 //converting long data type into int data type  
 
-**int** i = (**int**)l;  
+int i = (int)l;  
 
 System.out.println("Before conversion: "+d);  
 
