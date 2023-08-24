@@ -10,7 +10,8 @@ Installation guide (JDK)
 - Select the version of Java which we want to download.
 - Select the operating system.
 - Scroll down to the page and click on the URL option suitable for your computer Operating system. But for a 64-bit machine, choose the software name ending with x64.  
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 005](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d0dba584-de18-4b4f-90a9-d268675d743b) 
+![jdk1](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/04499dfd-d7ca-4083-a787-4d13120f5037)
+
 
 **Step 3:** 
 ---
