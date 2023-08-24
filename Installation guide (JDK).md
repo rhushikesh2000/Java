@@ -101,7 +101,7 @@ Go to the search bar and search **f**or **Environment variable ->** click on **E
 
 Under the Advanced System Setting option click on **Environment Variables** as highlighted below**.**
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 011](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/74545be3-a718-4227-b9ed-a50def071233)
+![env 2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f9451cdc-064c-4d50-8da4-9161a5d00c98)
 
 
 
@@ -117,8 +117,7 @@ Under the Advanced System Setting option click on **Environment Variables** as h
 ---
 Now, you have to alter the “**Path”** variable under System variables so that it also contains the path to the Java environment. Select the “Path” variable and click on the **Edit button** as highlighted below.
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 012](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/fe1b5948-62f7-4d9a-b5f8-e6470e335486)
-
+![env-2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8e0fffc8-f219-47fa-9500-dddac7527257)
 
 
 
@@ -136,7 +135,8 @@ You will see a list of different paths, Click on the **New** button, and then ad
 
 
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 013](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/c307166a-1f99-4f16-bf02-e7cb0e5e93cf)
+![env-3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9c59425b-9c3d-42bd-b85e-833d6fad77cf)
+
 
 
 
