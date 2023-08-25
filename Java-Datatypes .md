@@ -1,3 +1,9 @@
+**Java-Datatypes**
+---
+
+
+
+
 **What are Data Types in Java?**
 
 ---
@@ -149,7 +155,8 @@ String s1 = new String("welcome to guvi");
 ~~~
 **Primitive data type vs. non-primitive type in Java**
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 005](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4b8e30ff-decd-40d5-839f-221b403c4948)
+![difference-between-primitive-and-non-primitive-datatypes-12-1650387712](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/0be1bcd4-4324-4180-88f8-be280691e24c)
+
 
 
 
