@@ -1,5 +1,4 @@
-**Variables in Java**
-
+**Java-Variables**
 ---
 
 Java variable is a name given to a memory location. It is the basic unit of storage in a program.
@@ -152,6 +151,9 @@ class guvi {
 
 
  **Scope of variables** 
+
+ ---
  
  
- ![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 008](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f98b1e13-e375-4691-8403-04d1d35f3034)
+ ![scope-and-lifetime-of-a-variable-summary](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/6062056d-fc19-4670-8c06-d20afa21b79f)
+
