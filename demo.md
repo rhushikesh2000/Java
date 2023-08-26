@@ -1,119 +1,22 @@
-# Type Casting in Java 
 
-
-
-In Java, type casting is a method or process that converts a data type into another data type in both ways manually and automatically. The automatic conversion is done by the compiler and manual conversion is performed by the programmer. 
-
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 015](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/114192ec-481a-4dc7-8485-343144d14b6f)
-
-
-**Types of Type Casting**
+**What is Oop’s (Object-Oriented Programming)?**
 
 ---
 
-There are two types of type casting:
-- Widening Type Casting
-- Narrowing Type Casting
+As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming, they use objects as a primary source to implement what is to happen in the code. Objects are seen by the viewer or user, performing tasks assigned by you. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc. in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
-**Widening Type Casting**
+![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/ef3dd185-555b-4a58-b61c-45909e1c5a2f)
 
----
 
-Converting a lower data type into a higher one is called widening type casting. It is also known as implicit conversion or casting down. It is done automatically. It is safe because there is no chance to lose data. It takes place when:
-
-- Both data types must be compatible with each other.
-- The target type must be larger than the source type.
-~~~
-byte -> short -> char -> int -> long -> float -> double  
-~~~
-For example, the conversion between numeric data types to char or Boolean is not done automatically. Also, the char and Boolean data types are not compatible with each other. Let's see an example.
-~~~java
-public class WideningTypeCastingExample  
-
-{  
-
-public static void main(String[] args)  
-
-{  
-
-int x = 7;  
-
-//automatically converts the integer type into long type  
-
-long y = x;  
-
-//automatically converts the long type into float type  
-
-float z = y;  
-
-System.out.println("Before conversion, int value "+x);  
-
-System.out.println("After conversion, long value "+y);  
-
-System.out.println("After conversion, float value "+z);  
-
-}  
-
-}  
-~~~
-
-**Output:**
-~~~
-Before conversion, the value is: 7
-
-After conversion, the long value is: 7
-
-After conversion, the float value is: 7.0
-~~~
-**Narrowing Type Casting**
+**List of OOPs Concepts in Java**
 
 ---
 
-Converting a higher data type into a lower one is called narrowing type casting. It is also known as explicit conversion or casting up. It is done manually by the programmer. If we do not perform casting then the compiler reports a compile-time error.
-~~~
-double -> float -> long -> int -> char -> short -> byte 
-~~~
-Let's see an example of narrowing type casting.
-
-In the following example, we performed the narrowing type casting two times. First, we have converted the double type into a long data type after that long data type is converted into an int type.
-~~~java
-public class NarrowingTypeCastingExample  
-
-{  
-
-public static void main(String args[])  
-
-{  
-
-double d = 166.66;  
-
-//converting double data type into long data type  
-
-long l = (long)d;  
-
-//converting long data type into int data type  
-
-int i = (int)l;  
-
-System.out.println("Before conversion: "+d);  
-
-//fractional part lost  
-
-System.out.println("After conversion into long type: "+l);  
-
-//fractional part lost  
-
-System.out.println("After conversion into int type: "+i);  
-
-}  
-
-}  
-~~~
-**Output:**
-~~~
-Before conversion: 166.66
-
-After conversion into long type: 166
-
-After conversion into int type: 166
-~~~
+1. Objects
+1. Classes
+1. Object 
+1. Class
+1. Abstraction
+1. Inheritance 
+1. Polymorphism
+1. Encapsulation
