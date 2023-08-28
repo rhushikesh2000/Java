@@ -1,23 +1,5 @@
 
 
-
-## Iterator interface
-
-Iterator interface provides the facility of iterating the elements in a forward direction only.
-
-Methods of Iterator interface
-
-There are only three methods in the Iterator interface. 
-
-
-|**No.**|**Method**|**Description**|
-| :- | :- | :- |
-|1|public boolean hasNext()|It returns true if the iterator has more elements otherwise it returns false.|
-|2|public Object next()|It returns the element and moves the cursor pointer to the next element.|
-|3|public void remove()|It removes the last elements returned by the iterator. It is less used.|
-
-
-
 **List Interface in Java** 
 
 The List interface in Java provides a way to store the ordered collection. It is a child interface of Collection. It is an ordered collection of objects in which duplicate values can be stored. Since List preserves the insertion order, it allows positional access and insertion of elements. 
