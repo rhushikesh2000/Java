@@ -1,17 +1,20 @@
 
-**Array basics**
+## Array basics
 
-Normally, an array is a collection of similar type of elements which has a contiguous memory location.
+- Normally, an array is a collection of similar type of elements which has a contiguous memory location.
 
 Java array is an object which contains elements of a similar data type. Additionally, The elements of an array are stored in a contiguous memory location. It is a data structure where we store similar elements. We can store only a fixed set of elements in a Java array. Array in Java is index-based, the first element of the array is stored at the 0th index, 2nd element is stored on 1st index, and so on.
 
-![](Aspose.Words.8f56414e-c7f9-4069-91da-72cfe097660a.001.png)
+![Aspose Words 8f56414e-c7f9-4069-91da-72cfe097660a 001](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/54282707-1164-47f2-ac05-4440295e6923)
+
 
 
 
 
 
 **Why we need array?**
+
+---
 
 Arrays in Java are essential data structures that allow us to store and manage multiple elements of the same data type in a single variable. They provide efficient memory allocation and fast access to elements, making it easier to work with collections of data and perform various operations like sorting, searching, and iteration.
 
@@ -25,14 +28,14 @@ Creating, initializing, and accessing an Array
 The general form of a one-dimensional array declaration is
 
 **Syntax:**
-
+~~~
 Datatype var-name[];
 
 OR
 
 Datatype [] var-name;
 
-
+~~~
 
 **Instantiating an Array in Java**
 
@@ -41,13 +44,13 @@ When an array is declared, only a reference of an array is created. To create or
 var-name = new type [size];
 
 **Example:**
-
+~~~java
 int intArray[];    //declaring array
 
 intArray = new int[20];  // allocating memory to array
 
 
-
+~~~
 
 
 **Array Literal**
