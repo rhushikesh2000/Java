@@ -2,15 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Two Rows and Two Columns Table</title>
 </head>
 <body>
     <h2>Two Rows and Two Columns Table</h2>
-
     <table border="1">
         <tr>
-            <td>intyroduction to manual testing </td>
-            <td><a href="">Link Text</a>
+            <td> intyroduction to manual testing </td>
+            <td><a href="https://github.com/rhushikesh2000/Java_tutorial">home page </a>
                                    </td>
         </tr>
         <tr>
